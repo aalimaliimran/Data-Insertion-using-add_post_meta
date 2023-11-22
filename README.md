@@ -51,8 +51,3 @@ if (!is_wp_error($post_id)) {
 ```
 
 Replace the values in `$my_post` with your desired post details. The `add_post_meta` function is then used to add custom meta data to the created post. Adjust the meta key and value accordingly.
-
-Feel free to explore more WordPress functions and customize the code based on your specific use case.
-```
-
-This README provides a basic guide for users to understand how to connect to the WordPress database and insert data using the `add_post_meta` function. Adjust the paths, post details, and other parameters as needed for your specific WordPress setup.
